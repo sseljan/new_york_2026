@@ -1,6 +1,6 @@
-# Knicks Manhattan Essay
+# The Promise of Witness
 
-Static long-form photo essay website for "Let's Go Knicks" by Sam Seljan.
+Static long-form photo essay website for "The Promise of Witness" by Sam Seljan.
 
 ## Local preview
 
